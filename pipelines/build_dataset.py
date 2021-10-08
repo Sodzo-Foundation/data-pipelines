@@ -60,3 +60,4 @@ for (dType, imagePaths, baseOutput) in datasets:
 		# the image itself
 		p = os.path.sep.join([labelPath, filename])
 		shutil.copy2(inputPath, p)
+		

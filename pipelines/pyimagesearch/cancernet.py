@@ -68,3 +68,4 @@ class CancerNet:
 
 		# return the constructed network architecture
 		return model
+		
